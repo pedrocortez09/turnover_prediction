@@ -1,0 +1,208 @@
+,Funcionario,EmpID,Probabilidade Turnover,Performance,Departamento,Posicao,Tempo Review,Tempo Servico,Turnover
+109,265,10228,1.0,3,IT/IS,it support,1.0,4.8,0
+191,158,10025,1.0,4,Production       ,production technician ii,1.0,6.6,0
+6,127,10194,1.0,3,Software Engineering,software engineer,1.0,5.1,0
+106,108,10018,1.0,4,Production       ,production technician i,0.9,5.3,0
+36,161,10001,1.0,4,Production       ,production manager,0.9,3.9,0
+237,93,10020,1.0,4,Production       ,production technician i,0.9,6.5,0
+262,217,10180,1.0,3,IT/IS,sr. network engineer,1.0,3.5,0
+19,105,10277,1.0,3,Production       ,production technician i,1.0,6.5,0
+42,205,10108,0.99,3,IT/IS,bi director,1.0,3.3,0
+52,137,10261,0.99,3,Production       ,production technician i,1.0,6.5,0
+107,11,10255,0.99,3,Sales,area sales manager,0.9,4.9,0
+22,304,10003,0.98,4,Production       ,production technician i,0.8,5.5,0
+192,171,10223,0.98,3,Production       ,production technician ii,0.9,8.0,0
+123,206,10074,0.98,3,Production       ,production technician ii,1.0,6.1,0
+269,124,10266,0.98,3,Production       ,production technician i,1.0,5.9,0
+39,307,10082,0.98,3,IT/IS,sr. dba,0.9,3.5,0
+209,119,10281,0.98,2,Production       ,production technician i,0.9,5.9,0
+3,89,10088,0.97,3,Production       ,production technician i,1.0,12.0,0
+21,302,10226,0.97,3,Production       ,production technician i,1.0,6.4,0
+275,226,10173,0.97,3,IT/IS,bi developer,1.0,2.7,0
+282,151,10013,0.97,4,Sales,area sales manager,1.0,14.0,0
+47,199,10168,0.96,3,Production       ,production technician i,0.9,8.3,0
+40,175,10040,0.96,3,Sales,area sales manager,0.9,5.4,0
+189,1,10213,0.95,3,Production       ,production technician ii,1.0,8.2,0
+61,249,10212,0.94,3,IT/IS,sr. network engineer,0.9,5.1,0
+67,103,10306,0.94,1,Sales,area sales manager,0.9,5.3,0
+88,143,10136,0.94,3,Production       ,production technician ii,1.0,5.9,0
+51,104,10029,0.94,4,Production       ,production technician i,0.8,3.5,0
+144,15,10156,0.94,3,IT/IS,database administrator,0.9,5.0,0
+154,198,10176,0.93,3,Production       ,production technician i,0.9,9.0,0
+62,289,10056,0.92,3,Production       ,production technician i,0.8,7.5,0
+190,301,10288,0.92,2,IT/IS,it manager - infra,0.9,7.9,0
+99,215,10273,0.92,3,IT/IS,it support,0.9,9.7,0
+92,2,10049,0.92,3,Production       ,production technician i,0.9,8.0,0
+225,84,10225,0.92,3,Production       ,production technician i,1.0,6.0,0
+197,80,10079,0.91,3,IT/IS,senior bi developer,0.8,2.9,0
+274,279,10024,0.91,4,Software Engineering,software engineer,0.9,5.5,0
+306,53,10135,0.9,3,Production       ,production technician ii,0.8,5.5,0
+207,229,10121,0.9,3,Sales,area sales manager,0.9,6.3,0
+44,286,10154,0.9,3,Production       ,production technician i,1.0,6.5,0
+290,132,10144,0.89,3,Production       ,production manager,0.8,8.4,0
+156,236,10113,0.89,3,IT/IS,sr. network engineer,1.0,5.1,0
+243,68,10198,0.88,3,IT/IS,it manager - db,0.9,7.0,0
+148,85,10192,0.88,3,Production       ,production technician i,0.9,6.3,0
+118,212,10098,0.85,3,Production       ,production manager,1.0,4.6,0
+204,247,10104,0.85,3,Production       ,production technician ii,1.0,5.1,0
+37,277,10085,0.85,3,Software Engineering,software engineer,0.9,6.1,0
+194,18,10254,0.84,3,Production       ,production technician i,1.0,6.8,0
+35,256,10150,0.83,3,Software Engineering,software engineering manager,0.9,8.4,0
+122,221,10125,0.82,3,Production       ,production technician i,0.9,8.1,0
+138,95,10139,0.77,3,Production       ,production technician i,1.0,6.4,0
+238,239,10162,0.7,3,IT/IS,data analyst,0.9,4.9,0
+254,216,10178,0.68,3,IT/IS,data analyst,1.0,5.0,0
+181,227,10053,0.63,3,Production       ,production technician i,1.0,8.6,0
+165,174,10251,0.61,3,Production       ,production technician i,0.9,7.6,0
+261,214,10119,0.59,3,IT/IS,it support,0.9,8.6,0
+102,51,10159,0.59,3,Production       ,production technician i,1.0,4.8,0
+101,197,10257,0.58,3,Production       ,production technician i,0.8,8.6,0
+60,64,10099,0.58,3,Sales,sales manager,0.9,5.7,0
+12,297,10012,0.51,4,IT/IS,data analyst,0.8,5.1,0
+260,293,10157,0.5,3,Production       ,production technician i,0.9,6.1,0
+310,218,10271,0.5,3,Production       ,production technician i,0.9,5.3,0
+223,16,10124,0.45,3,Sales,area sales manager,0.9,8.0,0
+222,152,10164,0.45,3,Production       ,production technician i,0.8,12.2,0
+87,211,10263,0.43,3,Production       ,production technician ii,0.9,5.5,0
+31,86,10203,0.43,3,Production       ,production technician i,0.9,6.1,0
+159,246,10052,0.41,3,Production       ,production technician i,0.9,7.5,0
+230,231,10140,0.39,3,Sales,area sales manager,0.9,5.6,0
+145,163,10036,0.39,4,Production       ,production technician ii,1.0,5.5,0
+186,294,10068,0.38,3,Production       ,production technician i,0.9,4.8,0
+126,75,10129,0.35,3,Production       ,production technician i,0.9,7.4,0
+8,176,10114,0.33,3,Production       ,production technician i,0.9,10.5,0
+299,185,10127,0.32,3,IT/IS,sr. network engineer,0.9,4.8,0
+134,164,10201,0.28,3,Production       ,production technician ii,1.0,3.6,0
+114,12,10237,0.27,3,Production       ,production technician ii,0.9,5.6,0
+219,9,10217,0.26,3,Production       ,production technician ii,1.0,7.8,0
+232,81,10011,0.23,4,Production       ,production technician i,0.9,8.1,0
+250,118,10169,0.21,3,Production       ,production technician i,0.9,5.3,0
+257,134,10027,0.21,4,Production       ,production technician ii,0.9,5.3,0
+228,6,10239,0.2,3,IT/IS,bi developer,0.9,3.2,0
+264,42,10090,0.2,3,Production       ,production manager,0.9,7.3,0
+117,20,10256,0.19,3,Production       ,production technician i,0.9,6.4,0
+203,39,10206,0.19,3,Production       ,production technician i,1.0,6.5,0
+75,36,10133,0.18,3,IT/IS,it support,0.8,5.0,0
+26,240,10081,0.17,3,Admin Offices,sr. accountant,0.9,4.9,0
+268,162,10147,0.16,3,Admin Offices,accountant i,1.0,5.3,0
+23,235,10294,0.15,2,Production       ,production technician ii,0.8,8.8,0
+176,275,10219,0.15,3,Production       ,production technician i,0.8,6.0,0
+130,306,10112,0.13,3,IT/IS,database administrator,1.0,4.8,0
+83,135,10299,0.13,1,Production       ,production technician ii,0.8,5.5,0
+270,222,10241,0.13,3,Sales,area sales manager,0.9,9.3,0
+241,255,10054,0.13,3,Production       ,production technician i,0.9,6.0,0
+90,74,10308,0.13,1,Production       ,production technician i,1.0,4.6,0
+196,82,10216,0.13,3,Production       ,production technician i,0.9,6.5,0
+111,263,10031,0.12,4,Production       ,production technician i,0.9,8.5,0
+16,19,10023,0.12,4,Production       ,production technician ii,1.0,3.4,0
+133,26,10248,0.12,3,Production       ,production technician i,1.0,7.9,0
+131,109,10272,0.12,3,Sales,director of sales,0.9,5.7,0
+97,131,10080,0.11,3,Admin Offices,sr. accountant,0.9,11.0,0
+153,7,10208,0.1,3,Production       ,production technician i,0.9,5.9,0
+182,23,10076,0.1,3,Production       ,production technician ii,0.9,4.8,0
+41,252,10067,0.09,3,Production       ,production technician i,0.9,5.3,0
+149,228,10231,0.09,3,Sales,area sales manager,0.9,6.4,0
+240,180,10086,0.09,3,IT/IS,data architect,0.9,3.0,0
+74,266,10207,0.09,3,Production       ,production technician i,0.9,7.8,0
+43,201,10210,0.09,3,Production       ,production technician i,0.9,5.6,0
+125,115,10007,0.09,4,Production       ,production technician i,0.9,5.6,0
+115,78,10051,0.09,3,Production       ,production technician i,1.0,7.5,0
+166,97,10103,0.09,3,Sales,area sales manager,0.9,7.7,0
+201,100,10037,0.08,4,Production       ,production technician i,0.9,6.8,0
+7,107,10062,0.08,3,Production       ,production technician i,0.8,6.3,0
+183,55,10145,0.08,3,Production       ,production technician i,0.9,7.0,0
+202,200,10042,0.07,3,Sales,area sales manager,0.9,6.5,0
+58,270,10132,0.07,3,Production       ,production technician i,0.9,3.5,0
+38,278,10115,0.07,3,Production       ,production technician i,0.9,5.8,0
+0,251,10026,0.07,4,Production       ,production technician i,1.0,8.5,0
+164,182,10134,0.07,3,Admin Offices,shared services manager,0.9,4.0,0
+162,204,10232,0.07,3,IT/IS,senior bi developer,1.0,3.2,0
+29,43,10238,0.07,3,Admin Offices,accountant i,1.0,11.2,0
+20,225,10046,0.07,3,Production       ,production technician i,1.0,7.8,0
+263,155,10302,0.07,1,Production       ,production technician i,0.8,7.9,0
+245,123,10126,0.07,3,Software Engineering,software engineer,0.9,7.2,0
+160,183,10038,0.06,3,Admin Offices,accountant i,1.0,6.0,0
+220,117,10016,0.06,4,IT/IS,data analyst,1.0,5.1,0
+33,126,10107,0.06,3,Production       ,production technician ii,0.9,7.8,0
+248,133,10233,0.06,3,Production       ,production technician ii,1.0,9.3,0
+110,141,10243,0.06,3,Production       ,production technician i,0.9,6.1,0
+91,87,10309,0.06,1,IT/IS,network engineer,0.9,4.8,0
+266,57,10278,0.05,3,Production       ,production technician i,0.9,9.0,0
+195,308,10120,0.05,3,Production       ,production technician ii,0.9,6.6,0
+271,60,10158,0.05,3,Production       ,production manager,0.9,11.0,0
+48,208,10220,0.05,3,IT/IS,it support,0.8,7.3,0
+55,193,10019,0.05,4,Production       ,director of operations,0.9,11.0,0
+79,150,10211,0.05,3,Production       ,production technician i,0.9,9.7,0
+73,83,10284,0.05,2,Production       ,production technician i,1.0,7.0,0
+184,140,10202,0.05,3,Sales,area sales manager,0.9,3.5,0
+113,268,10101,0.05,3,IT/IS,it support,0.9,5.0,0
+187,113,10116,0.05,3,Production       ,production manager,1.0,7.4,0
+69,299,10310,0.05,1,Production       ,production technician i,0.9,5.5,0
+5,122,10002,0.04,4,Production       ,production technician i,1.0,8.0,0
+116,56,10218,0.04,3,Production       ,production technician ii,0.9,6.3,0
+258,8,10291,0.04,2,Sales,sales manager,1.0,5.6,0
+177,10,10077,0.04,3,Production       ,production technician ii,0.9,3.6,0
+128,160,10167,0.04,3,Sales,area sales manager,0.9,5.4,0
+13,34,10265,0.03,3,Production       ,production technician i,0.9,7.9,0
+64,187,10311,0.03,1,Production       ,production technician i,0.9,1.5,0
+253,116,10091,0.03,3,Production       ,production technician i,0.9,6.4,0
+98,267,10258,0.03,3,Sales,area sales manager,0.9,8.3,0
+288,288,10205,0.03,3,Sales,area sales manager,1.0,8.5,0
+120,179,10234,0.03,3,IT/IS,bi developer,0.9,2.7,0
+100,35,10111,0.03,3,Production       ,production technician i,0.9,4.8,0
+170,282,10008,0.03,4,IT/IS,it support,0.9,9.0,0
+295,101,10190,0.03,3,Production       ,production technician ii,0.9,5.4,0
+81,260,10247,0.03,3,Production       ,production technician i,0.9,5.1,0
+200,281,10063,0.03,3,Production       ,production technician i,0.9,5.6,0
+210,253,10041,0.02,3,Sales,area sales manager,1.0,5.0,0
+305,98,10174,0.02,3,Production       ,production technician ii,0.9,5.3,0
+72,261,10304,0.02,1,Sales,area sales manager,0.9,7.9,0
+180,66,10110,0.02,3,Software Engineering,software engineer,1.0,6.1,0
+255,195,10039,0.02,3,Admin Offices,administrative assistant,1.0,4.7,0
+71,41,10276,0.02,3,Production       ,production technician i,0.9,5.6,0
+298,33,10172,0.02,3,IT/IS,senior bi developer,1.0,2.9,0
+70,190,10197,0.02,3,IT/IS,bi developer,0.9,2.9,0
+59,31,10083,0.02,3,IT/IS,sr. network engineer,1.0,5.1,0
+172,73,10035,0.02,4,Production       ,production technician ii,0.9,6.4,0
+169,17,10137,0.02,3,Production       ,production technician ii,0.9,6.5,0
+9,44,10250,0.02,3,IT/IS,it support,0.9,5.0,0
+278,40,10161,0.02,3,Sales,area sales manager,0.9,5.3,0
+30,96,10184,0.02,3,Production       ,production technician ii,0.9,5.3,0
+141,191,10009,0.02,4,Production       ,production technician ii,0.8,8.5,0
+281,139,10123,0.02,3,Production       ,production technician i,1.0,6.9,0
+77,248,10006,0.02,4,Sales,area sales manager,0.9,9.0,0
+150,88,10089,0.02,3,Executive Office,president & ceo,1.0,7.5,0
+155,91,10165,0.02,3,Sales,area sales manager,1.0,8.8,0
+273,67,10209,0.01,3,Production       ,production technician i,0.9,7.6,0
+272,69,10117,0.01,3,Production       ,production technician i,0.9,5.0,0
+287,219,10045,0.01,3,IT/IS,network engineer,1.0,4.8,0
+78,21,10105,0.01,3,Production       ,production manager,1.0,5.3,0
+308,209,10010,0.01,4,IT/IS,cio,0.9,9.7,0
+309,142,10043,0.01,3,IT/IS,data analyst,0.9,4.8,0
+283,274,10287,0.01,2,Production       ,production technician i,0.9,5.9,0
+82,273,10235,0.01,3,Production       ,production technician i,1.0,5.8,0
+267,241,10307,0.01,1,Sales,area sales manager,1.0,5.6,0
+140,271,10236,0.01,3,Production       ,production technician i,0.9,6.3,0
+54,59,10282,0.01,2,Production       ,production manager,1.0,9.5,0
+57,309,10193,0.01,3,IT/IS,data analyst,0.9,4.8,0
+173,189,10057,0.01,3,Production       ,production technician i,0.9,4.9,0
+34,287,10181,0.01,3,Production       ,production technician ii,1.0,8.8,0
+66,196,10155,0.01,3,Software Engineering,software engineer,0.9,8.0,0
+63,37,10143,0.01,3,Production       ,production technician ii,0.8,8.2,0
+139,76,10227,0.01,3,Production       ,production technician i,1.0,7.2,0
+251,145,10071,0.01,3,Production       ,production technician i,0.9,6.3,0
+135,238,10214,0.01,3,Production       ,production technician ii,0.9,4.6,0
+246,237,10295,0.01,2,Production       ,production technician i,0.9,3.5,0
+252,245,10179,0.01,3,IT/IS,network engineer,1.0,5.3,0
+17,114,10055,0.0,3,Production       ,production technician i,1.0,8.8,0
+193,202,10151,0.0,3,IT/IS,network engineer,0.9,4.9,0
+45,148,10200,0.0,3,Sales,area sales manager,1.0,7.6,0
+179,125,10279,0.0,3,Production       ,production technician i,0.9,6.1,0
+294,149,10183,0.0,3,Production       ,production technician i,0.9,4.5,0
+208,0,10021,0.0,4,Production       ,production technician i,0.9,6.3,0
+142,52,10060,0.0,3,Production       ,production technician i,0.9,6.0,0
+291,165,10253,0.0,3,Sales,area sales manager,1.0,7.8,0
+167,203,10017,0.0,4,Production       ,production manager,0.9,6.3,0
+76,166,10028,0.0,4,IT/IS,it manager - support,1.0,6.0,0
+96,106,10015,0.0,4,IT/IS,it director,1.0,8.7,0
+56,13,10094,0.0,3,Production       ,production technician i,0.9,5.0,0
