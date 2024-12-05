@@ -1,7 +1,7 @@
 # <p align="center" dir="auto">Employee Turnover Prediction</p>
 ## <p align="center" dir="auto">Using Machine Learning to Optimize Employee Retention</p>
 <div align="center">
-<img src= width="700" />
+<img src="https://github.com/user-attachments/assets/3d60cda8-f6b9-47fc-b195-7bf7f1dd7ff4" width="700" />
 </div>
 
 # 1. Business Problem
@@ -68,27 +68,27 @@ The approach to solve the problem of employee turnover prediction and analysis i
 
 By following this structured process, the project delivers both predictive capabilities and meaningful insights to support strategic HR decision-making.
 
-# 4. Top 3 Insights
+# 4. Top 5 Insights
 
 1. **Employees with longer tenures are less likely to churn**  
    - Employees with more years of service tend to stay with the company, indicating that tenure is a strong factor in employee retention.  
-   - [Graph 1 - Tenure vs Turnover](#)
+   - ![Graph 1 - Tenure vs Turnover](https://github.com/user-attachments/assets/962de1df-6411-4330-836f-7d93f229f3fe)
 
 2. **Salary and salary deviation from the department average are not significant predictors of turnover; however, higher earners are less likely to churn**  
    - While overall salary comparisons show little correlation with turnover, individuals in the higher salary brackets demonstrate greater stability.  
-   - [Graph 2 - Salary Range vs Turnover](#)
+   - ![Graph 2 - Salary Range vs Turnover](https://github.com/user-attachments/assets/58204fc4-10c6-4be5-b472-69352b93c6ce)
 
 3. **Employees in higher-ranking positions exhibit a higher average turnover rate**  
    - Senior roles might have elevated turnover due to increased stress, greater market demand for their expertise, or other job-related factors.  
-   - [Graph 3 - Job Hierarchy vs Turnover](#)
+   - ![Graph 3 - Job Hierarchy vs Turnover](https://github.com/user-attachments/assets/3e259cac-bd2d-4eba-b3f4-0cf4563cc7fd)
 
 4. **Engagement surveys show no direct relationship with turnover causes; however, survey data may be biased**  
    - The lack of correlation suggests a possible limitation in how engagement is measured or reported.  
-   - [Graph 4 - Engagement vs Turnover](#)
+   - ![Graph 4 - Engagement vs Turnover](https://github.com/user-attachments/assets/ed304612-a485-4ca6-9320-18f1e693efa4)
 
 5. **Satisfaction levels seem unrelated to turnover; however, survey results may also suffer from bias**  
    - The data shows no clear pattern linking satisfaction scores to turnover likelihood, which might indicate underlying inaccuracies in survey responses.  
-   - [Graph 5 - Satisfaction vs Turnover](#)
+   - ![Graph 5 - Satisfaction vs Turnover](https://github.com/user-attachments/assets/c71b5120-b996-49c5-9c8e-a4defb1d1426)
 
 # 5. Machine Learning Models
 
@@ -139,10 +139,10 @@ and allows the company to monitor the effectiveness of retention strategies in r
 Below, you can find the visualizations for each of these dashboards:
 
 ### 1. Company Overview Dashboard  
-![Company Overview Dashboard](your_image_link_here)
+![Company Overview Dashboard](https://github.com/user-attachments/assets/6a601112-e723-428d-b597-7e3f786d3c78)
 
 ### 2. Turnover and Prevention Dashboard  
-![Turnover and Prevention Dashboard](your_image_link_here)
+![Turnover and Prevention Dashboard](https://github.com/user-attachments/assets/a3f84065-f5cb-4e5b-9658-5f6ffa1aaba6)
 
 # 8. Next Steps and Lessons Learned
 
