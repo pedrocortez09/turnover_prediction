@@ -142,7 +142,7 @@ Below, you can find the visualizations for each of these dashboards:
 ![Company Overview Dashboard](https://github.com/user-attachments/assets/6a601112-e723-428d-b597-7e3f786d3c78)
 
 ### 2. Turnover and Prevention Dashboard  
-![Turnover and Prevention Dashboard](https://github.com/user-attachments/assets/a3f84065-f5cb-4e5b-9658-5f6ffa1aaba6)
+![Turnover and Prevention Dashboard](https://github.com/user-attachments/assets/0fd7e461-f2e2-4d36-89b0-603d54209ddf)
 
 # 8. Next Steps and Lessons Learned
 
