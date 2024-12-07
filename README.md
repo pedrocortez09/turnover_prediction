@@ -7,7 +7,7 @@
 # 1. Business Problem
 
 ## 1.1. Dataset
-This project utilizes a **publicly available dataset** from a fictional company, covering employee records from **2006 to 2020**. The dataset includes over 3,000 records with details such as:
+This project utilizes a **publicly available dataset** from a fictional company, covering employee records from **2006 to 2020**. The dataset includes over 300 records with details such as:
 
 - **Employee demographics**: Age, gender, marital status, and ethnicity.
 - **Job information**: Department, position, and hiring source.
